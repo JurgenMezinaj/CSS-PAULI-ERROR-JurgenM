@@ -4,6 +4,15 @@
 
 This project simulates a quantum Hamming CSS code [[15,7,3]] under a random Pauli error channel.
 The self-dual [[15,7,3]] code with H_X = H_Z given by the parity-check matrix below:
+
+
+
+
+
+
+
+
+
 \[
 H_X = H_Z =
 \begin{pmatrix}
