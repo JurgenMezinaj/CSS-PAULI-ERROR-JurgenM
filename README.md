@@ -6,22 +6,6 @@ This project simulates a quantum Hamming CSS code [[15,7,3]] under a random Paul
 The self-dual [[15,7,3]] code with H_X = H_Z given by the parity-check matrix below:
 
 
-
-
-
-
-
-
-
-\[
-H_X = H_Z =
-\begin{pmatrix}
-0&0&0&0&0&0&0&1&1&1&1&1&1&1&1\\
-0&0&0&1&1&1&1&0&0&0&0&1&1&1&1\\
-0&1&1&0&0&1&1&0&0&1&1&0&0&1&1\\
-1&0&1&0&1&0&1&0&1&0&1&0&1&0&1
-\end{pmatrix}.
-\]
 ## Files
 
 - `css_code.py`: Implements the code, noise, syndrome measurement, and recovery.
